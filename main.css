@@ -1,0 +1,29 @@
+button.btn {
+ margin-top: 50px;
+ cursor: pointer;
+ border-radius: 10px;
+ text-transform: uppercase;
+  
+ 
+}
+ 
+.container{
+    border: solid 1px red;
+    padding: 30px;
+    margin-top: 70px;
+    width: 40%;
+    background-color: rgb(190,190,190);
+    
+}
+
+h2{
+    padding: 10px;
+    text-transform: uppercase;
+  
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.623); 
+    
+   
+}
